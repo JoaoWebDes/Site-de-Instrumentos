@@ -1,0 +1,31 @@
+@import url('https://fonts.googleapis.com/css2?family=Mulish&display=swap');
+
+*{
+    font-family: 'Mulish', sans-serif;
+
+}
+
+body{
+    overflow-x: hidden;
+    background-color: rgba(153, 126, 85, 0.774);
+}
+
+.navbar-brand{
+    font-size: 25px;
+}
+
+.nav-item{
+    font-size: 20px;
+}
+
+.card{
+    margin: auto;
+    color: white;
+    
+}
+
+#rodape{
+    background-color: #212529;
+
+}
+
